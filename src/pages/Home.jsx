@@ -157,7 +157,7 @@ const Home = () => {
                 className="relative bg-white rounded-full p-2 shadow-xl"
               >
                 <img 
-                  src="/dad.jpg" 
+                  src={'${process.env.PUBLIC_URL}/dad.jpg'}
                   alt="Udula Madawala" 
                   className="rounded-full w-64 h-64 object-cover border-4 border-white"
                 />
