@@ -67,7 +67,7 @@ const Contact = () => {
     {
       icon: <FaGithub className="text-xl" />,
       name: "GitHub",
-      url: "https://github.com/UdulAM13868",
+      url: "https://github.com/YasasSri2001",
       color: "bg-gray-800 hover:bg-gray-700"
     },
     {
