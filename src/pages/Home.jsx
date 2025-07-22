@@ -156,11 +156,12 @@ const Home = () => {
                 whileHover={{ scale: 1.03 }}
                 className="relative bg-white rounded-full p-2 shadow-xl"
               >
-                <img 
-                  src="/profile.jpg" 
-                  alt="Udula Madawala" 
-                  className="rounded-full w-64 h-64 object-cover border-4 border-white"
-                />
+               <img 
+  src={process.env.PUBLIC_URL + '/profile.jpg'} 
+  alt="Udula Madawala" 
+  className="rounded-full w-64 h-64 object-cover border-4 border-white"
+/>
+
               </motion.div>
             </div>
           </motion.div>
