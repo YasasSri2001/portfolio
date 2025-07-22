@@ -3,8 +3,8 @@ import { FaCode, FaMobileAlt, FaLaptopCode, FaBrain, FaArrowRight } from 'react-
 
 const Home = () => {
   const stats = [
-    { value: "3+", label: "Years Learning" },
-    { value: "10+", label: "Projects Completed" },
+    { value: "1", label: "Years Learning" },
+    { value: "4+", label: "Projects Completed" },
     { value: "5", label: "Technologies" },
     { value: "100%", label: "Dedication" }
   ];
