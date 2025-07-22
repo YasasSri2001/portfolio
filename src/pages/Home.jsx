@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { FaCode, FaMobileAlt, FaLaptopCode, FaBrain, FaArrowRight } from 'react-icons/fa';
-import profileImg from './assets/profile.jpg';
+
 
 const Home = () => {
   const stats = [
@@ -157,7 +157,11 @@ const Home = () => {
                 whileHover={{ scale: 1.03 }}
                 className="relative bg-white rounded-full p-2 shadow-xl"
               >
-               <img src={profileImg} alt="Profile" className="rounded-full w-64 h-64 object-cover border-4 border-white" />
+              <img
+  src="/profile.jpg"
+  alt="Profile"
+  className="rounded-full w-64 h-64 object-cover border-4 border-white"
+/>
 
               </motion.div>
             </div>
