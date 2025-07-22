@@ -134,11 +134,9 @@ const About = () => {
                     }}
                     className="absolute -inset-1 bg-blue-100 rounded-full"
                   ></motion.div>
-                <img
-  src="/profile.jpg"
-  alt="Udula Madawala"
-  className="relative w-40 h-40 rounded-full object-cover border-4 border-white shadow-md mx-auto"
-/>
+
+                  
+                <img src={`${process.env.PUBLIC_URL}/profile.jpg`} alt="Profile" className="rounded-full w-64 h-64 object-cover border-4 border-white" />
 
                 </div>
               </motion.div>
