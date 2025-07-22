@@ -1,6 +1,6 @@
 {
   "name": "my-portfolio",
-  "homepage": "https://https://github.com/YasasSri2001/portfolio",
+  "homepage": "https://YasasSri2001.github.io/portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -22,7 +22,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d nuild"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
