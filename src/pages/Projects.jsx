@@ -7,7 +7,7 @@ const Projects = () => {
       title: "E-Commerce Website",
       description: "A fully responsive e-commerce platform with product listings, cart functionality, and user authentication.",
       technologies: ["HTML", "CSS", "JavaScript", "React"],
-      githubLink: "#",
+      githubLink: "https://github.com/YasasSri2001/E---Commerce-Site",
       image: "/ecommerce.jpg"
     },
     {
