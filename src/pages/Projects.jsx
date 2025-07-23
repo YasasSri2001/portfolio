@@ -14,21 +14,21 @@ const Projects = () => {
       title: "Mobile Task Manager",
       description: "A cross-platform mobile application for managing daily tasks with reminders and priority settings.",
       technologies: ["Android Studio(java)", "Firebase"],
-      githubLink: "#",
+      githubLink: "https://github.com/YasasSri2001/HNS-APP",
       image: "/taskmanager.jpg"
     },
     {
       title: "Portfolio Website",
       description: "A personal portfolio website showcasing projects, skills, and contact information.",
       technologies: ["REACT JS", "TailwindCSS", "JavaScript"],
-      githubLink: "#",
+      githubLink: "https://github.com/YasasSri2001/portfolio",
       image: "/portfolio.jpg"
     },
     {
-      title: "Weather Application",
-      description: "A weather forecasting app that displays current weather and 5-day forecast for any location.",
+      title: "Smart City Application",
+      description: "A smart city application that supports urban planning and helps citizens stay prepared for environmental changes.",
       technologies: ["JavaScript", "API Integration"],
-      githubLink: "#",
+      githubLink: "https://github.com/YasasSri2001/Smart-City-Now",
       image: "/weather.jpg"
     },
     {
