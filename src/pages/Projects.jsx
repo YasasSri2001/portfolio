@@ -14,7 +14,7 @@ const Projects = () => {
       title: "Mobile Task Manager",
       description: "A cross-platform mobile application for managing daily tasks with reminders and priority settings.",
       technologies: ["Android Studio(java)", "Firebase"],
-      githubLink: "https://github.com/YasasSri2001/HNS-APP",
+      githubLink: "https://github.com/YasasSri2001/Library_APP",
       image: "/taskmanager.jpg"
     },
     {
@@ -44,6 +44,13 @@ const Projects = () => {
       technologies: ["HTML", "CSS", "JavaScript", "Node.js"],
       githubLink: "#",
       image: "/blog.jpg"
+    },
+    {
+      title: "My filem Website",
+      description: "A personal portfolio website showcasing projects, skills, and contact information.",
+      technologies: ["REACT JS", "TailwindCSS", "JavaScript"],
+      githubLink: "https://github.com/YasasSri2001/portfolio",
+      image: "/portfolio.jpg"
     }
   ];
 
