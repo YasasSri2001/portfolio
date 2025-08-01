@@ -46,12 +46,13 @@ const Projects = () => {
       image: "/blog.jpg"
     },
     {
-      title: "My filem Website",
-      description: "A personal portfolio website showcasing projects, skills, and contact information.",
-      technologies: ["REACT JS", "TailwindCSS", "JavaScript"],
-      githubLink: "https://github.com/YasasSri2001/portfolio",
-      image: "/portfolio.jpg"
+      title: "Event Management",
+      description: "A user-friendly event management client that allows users to create, manage, and track events easily. It helps organize schedules, monitor participants, and streamline event coordination in one place.",
+      technologies: [ "react.js", "TailwindCSS", "Node.js","SQL Server"],
+      githubLink: "#",
+      image: "/blog.jpg"
     }
+  
   ];
 
   // Animation variants
