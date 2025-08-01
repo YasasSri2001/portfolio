@@ -46,10 +46,24 @@ const Projects = () => {
       image: "/blog.jpg"
     },
     {
+      title: "online-food-ordering",
+      description: "A convenient platform for browsing menus, placing orders, and getting your favorite meals delivered to your doorstep.",
+      technologies: ["HTML", "CSS", "JavaScript", "PHP"],
+      githubLink: "https://github.com/YasasSri2001/Online-food-ordering-System",
+      image: "/blog.jpg"
+    },
+    {
+      title: "My web-application Student LMS",
+      description: "A web-based Learning Management System that helps students in one convenient platform.",
+      technologies: ["PHP"],
+      githubLink: "https://github.com/YasasSri2001/My-web-application-Student-LMS",
+      image: "/portfolio.jpg"
+    },
+    {
       title: "Event Management",
       description: "A user-friendly event management client that allows users to create, manage, and track events easily. It helps organize schedules, monitor participants, and streamline event coordination in one place.",
       technologies: [ "react.js", "TailwindCSS", "Node.js","SQL Server"],
-      githubLink: "#",
+      githubLink: "https://github.com/YasasSri2001/Event-Management",
       image: "/blog.jpg"
     }
   
